@@ -1,0 +1,1 @@
+Clone repo, create and a python venv, pip install -r requirements.txt, run speech_to_text.py. Models are automatically downloaded from the Huggingface OpenAI Whisper collection and saved in cache. To run on GPU (mostly for the Large-v3-Turbo model), install a compatible version of pytorch. Right click the minized UI to return to model/translation selection.
